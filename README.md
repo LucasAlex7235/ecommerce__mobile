@@ -27,34 +27,4 @@ O foco principal da entrega será trabalhar com objetos, manipulação do DOM, u
 1. Construindo a Lista de Produtos
 2. Adicionando os Filtros
 3. Calculando o Preço Total
-
-## Passo a Passo
-
-### Passo 1 - Construindo a Lista de Produtos
-
-A primeira coisa que precisamos fazer é construir a lista dos produtos na nossa página. Note que, no arquivo index.html do repositório clonado, já temos um modelo HTML para utilizarmos como base para criarmos os produtos de forma dinâmica, ou seja, através do DOM.
-
-Lembre de não estilizar via Javascript! Sempre crie classes com o estilo que você espera para o elemento e adicione essa classe ao elemento pelo Javascript.
-
-### Passo 2 - Adicionando os Filtros
-
-Podemos observar, no GIF de exemplo acima, que temos três formas de filtrar nossos produtos. São elas:
-
-   1. Mostrar Hortifruti: Mostra a listagem apenas dos produtos que são da seção "Hortifruti";
-   2. Campo de busca: Filtra a listagem de produtos pelo nome do produto, inserido no campo;
-   3. Mostrar todos: Mostra a listagem de todos os produtos.
-
-### Passo 3 - Calculando o Preço Total
-
-Por fim mas não menos importante, o cálculo do preço total. Note que o cálculo, assim como a listagem, é dinâmico. Ou seja, seu valor muda de acordo com o valor dos produtos que estão sendo mostrados
-
-1. Calcular dinamicamente o valor total dos produtos listados.
-
-> **Dica!**
-> 
-> Lembre-se que, como visto antes, quando trabalhamos com arrays e objetos, temos muitas possibilidades de métodos para nos auxiliar a deixar nosso código mais enxuto e de fácil leitura. Escolha o mais adequado para as situações propostas.
-
-## Extra
-
-Agora que você já fez os pontos principais da entrega, sinta-se à vontade para criar mais tipos de filtros e deixar sua entrega ainda mais dinâmica.
-
+4. Adicionar o sistema de adicionar ao carrinho
