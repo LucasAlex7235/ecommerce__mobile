@@ -17,11 +17,6 @@ Não se preocupe com a parte de estilização, as classes já estão criadas, po
 O foco principal da entrega será trabalhar com objetos, manipulação do DOM, uso de métodos de array e string.
 
 
-> **Aviso!**
-> 
-> Ao clonar o projeto, você verá dois arquivos JavaScript, sendo um deles para armazenar exclusivamente os dados que você irá utilizar e o segundo onde irá ser inserido sua lógica, lembre-se que a organização do seu projeto é tão importante quanto seu código. Nem sempre será só você que irá utilizar o projeto
-
-
 ## Tarefas
 
 1. Construindo a Lista de Produtos
