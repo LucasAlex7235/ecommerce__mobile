@@ -10,7 +10,6 @@ O objetivo desta entrega é utilizar a manipulação de DOM para montar uma list
 
 ![lista-produtos](./src/img/lista-frutas.gif)
 
-No projeto clonado você terá 3 arquivos, index.html, style.css e script.js.
 
 Não se preocupe com a parte de estilização, as classes já estão criadas, porém, sinta-se livre para alterar caso ache necessário.
 
