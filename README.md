@@ -10,9 +10,6 @@ O objetivo desta entrega é utilizar a manipulação de DOM para montar uma list
 
 ![lista-produtos](./src/img/lista-frutas.gif)
 
-
-Não se preocupe com a parte de estilização, as classes já estão criadas, porém, sinta-se livre para alterar caso ache necessário.
-
 O foco principal da entrega será trabalhar com objetos, manipulação do DOM, uso de métodos de array e string.
 
 
